@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family:'Poppins',sans-serif;
+    box-sizing: border-box;
+
+}
+
+.main_body{
+    background-color:white;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* .body_container { 
+  
+   background-color:rgb(249, 245, 245);
+   
+} */
+.text_design {
+    background-color: rgb(255, 60, 0);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: rgba(0, 0, 0, .1);
+  }
+
+  .callnow span{
+    font-size: larger;
+    font-weight: 800;
+    
+  }
+  .callnum{
+    font-weight: bolder;
+    font-size:xx-large;
+  }
