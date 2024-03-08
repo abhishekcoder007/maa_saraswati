@@ -25,7 +25,8 @@ const Navbar=()=>{
    
         <div className={style.main_container}>
             <div >
-                <h1><a href="#main" style={{fontSize:"larger",fontWeight:"900",textDecoration:"none"}}>my education</a></h1>
+                <h1><a href="#main" style={{fontSize:"larger",fontWeight:"700",textDecoration:"none"}}>FruitFull </a></h1>
+                <h5  className="text-center">Classes</h5>
             </div>
             <div className={style.main_containeritems} >
                 <span> <a href="#main" style={{textDecoration:"none"}}>Home</a></span>
