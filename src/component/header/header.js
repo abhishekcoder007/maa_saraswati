@@ -13,7 +13,7 @@ useEffect(()=>{
 },[count])
  
   function addnumber(){
-    if(count==num.length-1){
+    if(count==num.length){
       setMtnumber("")
       setcount(0)
       return
